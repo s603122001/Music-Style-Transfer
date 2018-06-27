@@ -23,7 +23,7 @@ This repository requires following packages:
 License
 ----
 
-BSD
+MIT
 
 
 
