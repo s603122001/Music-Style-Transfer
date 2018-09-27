@@ -5,6 +5,8 @@ This repository includes the source code of the melody extraction algorithm from
 
 Wei-Tsung Lu and Li Su, “Transferring the Style of Homophonic Music Using Recurrent Neural Networks and Autoregressive Model,” International Society of Music Information Retrieval Conference (ISMIR), September 2018.
 
+Listening samples is available [here].
+
 ### Dependencies
 
 This repository requires following packages:
@@ -24,6 +26,11 @@ License
 ----
 
 MIT
+
+
+[//]:#
+
+   [here]:https://drive.google.com/open?id=1hohsEvbAiBmTW6DUeEaoEha13otyn8oJ
 
 
 
