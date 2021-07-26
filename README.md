@@ -5,7 +5,7 @@ This repository includes the source code of the symbolic music style transfer al
 
 Wei-Tsung Lu and Li Su, “Transferring the Style of Homophonic Music Using Recurrent Neural Networks and Autoregressive Model,” International Society of Music Information Retrieval Conference (ISMIR), September 2018.
 
-Listening samples is available [here].
+Listening samples are available [here].
 
 ### Dependencies
 
